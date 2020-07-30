@@ -1,4 +1,7 @@
-### Hi there 👋
+### Kentaro Fujita
+
+Hi there 👋
+Thank you for visiting my profile page 😄
 
 <!--
 **kentaro-fujita/kentaro-fujita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
