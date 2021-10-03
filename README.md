@@ -4,7 +4,7 @@ Hi there 👋
 Thank you for visiting my profile page 😄
 
 <!--
-**kentaro-fujita/kentaro-fujita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**wisteken/wisteken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 -->
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=wisteken&show_icons=true&theme=dracula)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=wisteken&show_icons=true&theme=dracula&hide=jupyter%20notebook)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=wisteken&theme=dracula&hide=jupyter%20notebook)
